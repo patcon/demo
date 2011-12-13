@@ -4,6 +4,7 @@ core = 7.x
 subdir = contrib
 
 ; MODULES
+projects[domain]    = 3.0
 projects[features]  = 1.0-beta4
 projects[rules]     = 2.0
 projects[strongarm] = 2.0-beta4
