@@ -1,0 +1,11 @@
+name = Demo Profile
+description = Start with only a few modules enabled.
+version = VERSION
+core = 7.x
+files[] = demo.profile
+
+; MODULES
+dependencies[] = features
+
+; FEATURES
+dependencies[] = feature_core
