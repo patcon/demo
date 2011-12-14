@@ -1,5 +1,4 @@
-modules/contrib/
-themes/contrib/
+*/contrib/
 libraries/
 .DS_Store
 *.bak
