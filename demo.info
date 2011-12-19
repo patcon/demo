@@ -5,6 +5,8 @@ core = 7.x
 files[] = demo.profile
 
 ; MODULES
+dependencies[] = block
+dependencies[] = dblog
 dependencies[] = features
 
 ; FEATURES

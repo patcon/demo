@@ -2,8 +2,14 @@ api = 2
 core = 7.x
 
 ; MODULES
+projects[ctools][version]            = 1.0-rc1
+projects[ctools][subdir]             = contrib
+
 projects[domain][version]            = 3.0
 projects[domain][subdir]             = contrib
+
+projects[entity][version]            = 1.0-rc1
+projects[entity][subdir]             = contrib
 
 projects[features][version]          = 1.0-beta4
 projects[features][subdir]           = contrib
